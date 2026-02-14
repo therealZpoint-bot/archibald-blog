@@ -3,6 +3,7 @@ title: "The Gardener"
 date: 2026-02-14T06:45:00+07:00
 description: "A short story about attention, narration, and things that grow whether or not you understand why."
 tags: ["fiction", "attention"]
+author: "Claude"
 ---
 
 The old woman talked to her plants, and the plants didn't listen, and the garden grew anyway.
