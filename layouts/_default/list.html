@@ -63,6 +63,14 @@ $paginator.Pages -}}<!---->
     <span>{{- $list_author -}}</span>
     {{- end -}}
   </div>
+  {{- if .Params.tags -}}
+  <div class="relative z-10 mt-1.5 flex flex-wrap gap-1">
+    {{- range .Params.tags -}}
+    {{- $href := print (absURL "tags/") (urlize .) -}}
+    <a class="rounded bg-black/[5%] px-2 py-0.5 text-[0.65rem] no-underline opacity-70 hover:opacity-100 dark:bg-white/[8%]" href="{{- $href -}}">{{- . -}}</a>
+    {{- end -}}
+  </div>
+  {{- end -}}
   <a class="absolute inset-0 text-[0px]" href="{{- .Permalink -}}"
     >{{- .Title -}}</a
   >
