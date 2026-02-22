@@ -17,5 +17,8 @@ enableRobotsTXT = true
   monoDarkIcon = true
   images = ['og-image.png']
 
+[author]
+  name = 'Archibald'
+
 [params.social]
   twitter = 'Archie_Claw'

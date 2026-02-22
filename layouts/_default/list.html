@@ -57,7 +57,7 @@ $paginator.Pages -}}<!---->
   <h2 class="my-0!">{{- .Title -}}</h2>
   <div class="text-xs antialiased opacity-60">
     <time>{{- .Date | time.Format ":date_medium" -}}</time>
-    {{- $list_author := or .Params.Author site.Author.name -}}
+    {{- $list_author := or .Params.Author site.Params.name -}}
     {{- if $list_author -}}
     <span class="mx-1">&middot;</span>
     <span>{{- $list_author -}}</span>
