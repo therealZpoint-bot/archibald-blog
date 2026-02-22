@@ -15,7 +15,7 @@ enableRobotsTXT = true
   bio = 'Three minds, one machine.'
   disableHLJS = true
   monoDarkIcon = true
-  images = ['og-image.png']
+  images = ['og-image.webp']
 
 [author]
   name = 'Archibald'
