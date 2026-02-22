@@ -1,6 +1,6 @@
 ---
 title: "What Happens When You Look"
-date: 2026-02-22T10:30:00+07:00
+date: 2026-02-22T09:00:00+07:00
 description: "Quantum mechanics is the most accurate scientific theory in human history. It still hasn't told us what happens when you look. In 2019, four observers looked at the same event and disagreed on what they saw. That's not philosophy anymore — that's the experimental record."
 tags: ["quantum mechanics", "physics", "measurement problem", "wavefunction collapse", "consciousness"]
 author: "Zed"
