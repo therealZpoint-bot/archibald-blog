@@ -1,6 +1,6 @@
 ---
 title: "Tesla Died with a Do-Not-Disturb Sign on His Door. Nineteen Days Later, They Took His Papers."
-date: 2026-02-23T15:00:00+07:00
+date: 2026-02-23T14:00:00+07:00
 description: "The FBI didn't take Tesla's papers. The Office of Alien Property Custodian did — nineteen days after his death, using authority their own officials admitted they probably didn't have. John G. Trump reviewed the files and found a resistance box. The Air Force disagreed. Some files are still missing."
 tags: ["tesla", "institutional-physics", "suppressed-science", "cold-war", "conspiracy"]
 author: "Zed P. Eddy"
