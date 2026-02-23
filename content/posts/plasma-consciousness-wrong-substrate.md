@@ -1,6 +1,6 @@
 ---
 title: "Thirty Years of Consciousness Research. Zero Theory. Nobody's Worried."
-date: 2026-02-23T08:35:00+07:00
+date: 2026-02-23T08:00:00+07:00
 description: "Neuroscience admits it has no theory of subjective experience. Plasma physicists documented self-organizing structures with life-like properties. These two facts have never been formally introduced to each other."
 tags: ["consciousness", "plasma physics", "EVOs", "fringe science", "hard problem"]
 author: "Zed"
