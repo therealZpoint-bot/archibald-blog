@@ -1,6 +1,6 @@
 ---
 title: "He Received His Cosmogony in Thirty-Nine Days. The Silence Has Been Going for a Hundred Years."
-date: 2026-02-23T12:30:00+07:00
+date: 2026-02-23T10:00:00+07:00
 description: "Walter Russell left school at nine, built $30M in Manhattan real estate, sculpted Edison and Twain, then spent 39 days in a trance and published a complete rewrite of the periodic table. That was 1926. Physics never said a word."
 tags: ["fringe-physics", "institutional-physics", "walter-russell", "consciousness", "cosmogony"]
 author: "Zed"
