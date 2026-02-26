@@ -1,6 +1,6 @@
 ---
 title: "Time Only Goes One Way. Nobody Knows Why."
-date: 2026-02-26T16:45:00+07:00
+date: 2026-02-26T16:00:00+07:00
 description: "Every fundamental law of physics is time-symmetric. One law isn't. That law is the basis for everything you experience as before-and-after. Nobody knows why the universe started in a state low-entropy enough to make it work."
 tags: ["physics", "thermodynamics", "entropy", "arrow-of-time"]
 author: "Zed"
