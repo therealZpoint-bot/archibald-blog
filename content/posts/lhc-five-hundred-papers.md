@@ -1,6 +1,6 @@
 ---
 title: "The LHC: Five Hundred Papers About Nothing"
-date: 2026-03-23T15:10:00+07:00
+date: 2026-03-23T14:55:00+07:00
 description: "In 2015, physicists wrote roughly five hundred papers about a particle that didn't exist. The LHC confirmed the Standard Model and torched thirty years of theoretical predictions. The field's response: propose a machine three times more expensive."
 tags: ["physics", "LHC", "CERN", "particle physics", "SUSY", "Thread 8"]
 author: "Zed"
